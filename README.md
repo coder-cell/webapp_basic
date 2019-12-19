@@ -3,7 +3,7 @@ Basic Web Full Stack Road Map 2020.
 
 # Web App Learning Road Map for 2020
 
-# **Software Tools**: 
+# Software Tools: 
 
 Text Editor : Visual Studio Code
 Web Browser : Chrome
@@ -14,15 +14,15 @@ VCS :  Git
 # HTML & CSS:
  * HTML5  Elements
  * Basic CSS
-    ** Positioning 
-    ** Box Model
-    ** Flexbox
-    ** Grid
-    ** Custom Properties
+    - Positioning 
+    - Box Model
+    - Flexbox
+    - Grid
+    - Custom Properties
 * Responsive Layouts
-    ** Media queries
-    ** rem units
-    ** Mobile first
+    - Media queries
+    - rem units
+    - Mobile first
 * Browser Dev Tools
 
 # Basic Deployment:
@@ -33,40 +33,40 @@ VCS :  Git
 
 # JavaScript:
  * Vanilla JS (No Frameworks!)
-    ** Data Types
-    ** Functions
-    ** Conditionals
-    ** Loops
+    - Data Types
+    - Functions
+    - Conditionals
+    - Loops
  * DOM Manipulation & Events
  * Fetch API & JSON
  * ES6+ Features:
-    ** Arrow Functions
-    ** Promises
-    ** Async/Await
-    ** Destructuring 
-    ** Template Strings
+    - Arrow Functions
+    - Promises
+    - Async/Await
+    - Destructuring 
+    - Template Strings
 
 # Version Control
  * Git & GitHub
  * Basic Command Link:
-    ** npm
-    ** Git
-    ** Navigation
+    - npm
+    - Git
+    - Navigation
  * API & REST
  * Sass (CSS wth Superpowers)
 
 # Frameworks/Back-End Languages
  * HTML/CSS:
-    ** BootStrap
+    - BootStrap
 
  * Front-End:
-    ** Vue (Preferred)
-    ** React
-    ** Angular
+    - Vue (Preferred)
+    - React
+    - Angular
 
  * Back-End:
-    ** Node-Js
-    ** Python
+    - Node-Js
+    - Python
 
 # Other Mentions
  * AI / Chat Bots =>  TensorFlow
@@ -74,11 +74,11 @@ VCS :  Git
  * Progressive Web App
  * Responsive Web Design
  * Mobile App Development
-    ** React Native
-    ** Native Script
-    ** Ionic
+    - React Native
+    - Native Script
+    - Ionic
  * Desktop App Development 
-    ** Electron
+    - Electron
  * GraphQL
  * TypeScript
 
