@@ -1,15 +1,15 @@
-# Webapp_Basic
+# Webapp Basic
 Basic Web Full Stack Road Map 2020.
 
 # Web App Learning Road Map for 2020
 
 # Software Tools: 
 
-Text Editor : Visual Studio Code
-Web Browser : Chrome
-Editor Extenstions : Live Server, Live Sass Compiler
-Deployment Tool : FTP Client, SSH Tool
-VCS :  Git
+* Text Editor : Visual Studio Code
+* Web Browser : Chrome
+* Editor Extenstions : Live Server, Live Sass Compiler
+* Deployment Tool : FTP Client, SSH Tool
+* VCS :  Git
 
 # HTML & CSS:
  * HTML5  Elements
